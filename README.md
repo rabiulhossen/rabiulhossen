@@ -17,10 +17,12 @@ Skills: REACTJS / JS / HTML / CSS / NODEJS / EXPRESS / REDUX
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulhossen)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/rabiulhossen)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiulhossen&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rabiulhossen)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen)  
 
-![Profile views](https://gpvc.arturio.dev/rabiulhossen)  
+
