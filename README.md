@@ -3,7 +3,7 @@
  Currently, I am studying B.Sc. in Computer Science & Engineering. I am a self-taught enthusiasm Front End Developer who has a built-up a diverse range of skills, qualities and attributes. Furthermore, I am developing advanced skill in  ReactJS, NodeJS and MongoDB. 
  I am eagerly waiting to contribute with your project and increase my experience. Feel free to contact with me for any query and project.
 
-Skills: REACTJS / JS / HTML / CSS / NODEJS / EXPRESS / REDUX
+SKILLS: REACTJS / JS / HTML / CSS / NODEJS / EXPRESS / REDUX
 
 - 🔭 I’m currently working on "Resume Builder Website" with my team 
 - 🌱 I’m currently learning NextJS 
@@ -18,9 +18,9 @@ Skills: REACTJS / JS / HTML / CSS / NODEJS / EXPRESS / REDUX
 
 ![Profile views](https://gpvc.arturio.dev/rabiulhossen)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiulhossen&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiulhossen&show_icons=true&count_private=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen) 
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rabiulhossen)  
 
