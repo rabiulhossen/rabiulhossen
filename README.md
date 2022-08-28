@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Web Development**     
 
-- 📫 How to reach me **rabiulhossen001@gmail.com**       
+- 📫 How to reach me **rabiulhossen001@gmail.com**         ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
 - ⚡ Fun fact **Travelling more** 
 
-<h2 align="left">Connect with me ~</h2>              ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
+<h2 align="left">Connect with me ~</h2>            
 <br/>
 <p align="left">
 <a href="https://dev.to/https://dev.to/rabiulhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rabiulhossen" height="30" width="40" /></a>
