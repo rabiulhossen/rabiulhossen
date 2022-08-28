@@ -3,7 +3,7 @@
  Currently, I am studying B.Sc. in Computer Science & Engineering. I am a self-taught enthusiasm Front End Developer who has a built-up a diverse range of skills, qualities and attributes. Furthermore, I am developing advanced skill in  ReactJS, NodeJS and MongoDB. 
  I am eagerly waiting to contribute with your project and increase my experience. Feel free to contact with me for any query and project.
 
-SKILLS: REACTJS / JS / HTML / CSS / NODEJS / EXPRESS / REDUX
+SKILLS: REACTJS / JS / NODEJS / EXPRESS / REDUX / HTML / CSS
 
 - 🔭 I’m currently working on "Resume Builder Website" with my team 
 - 🌱 I’m currently learning NextJS 
