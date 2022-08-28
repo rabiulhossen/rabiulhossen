@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Travelling more**
 
-<h3 align="left">Connect with me ~</h3>  ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
+<h3 align="left">Connect with me ~</h3>  
 <p align="left">
 <a href="https://dev.to/https://dev.to/rabiulhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rabiulhossen" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/rabiulh46448368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rabiulh46448368" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen&" alt="rabiulhossen" /></p>
 
- 
+ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rabiulhossen)  
 
 
