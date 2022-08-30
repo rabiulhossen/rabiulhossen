@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development**     
 
-- 📫 How to reach me **rabiulhossen001@gmail.com**         ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
+- 📫 How to reach me **rabiulhossen001@gmail.com**  <br/>       ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
 - ⚡ Fun fact **Travelling more** 
 
@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="https://dev.to/https://dev.to/rabiulhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rabiulhossen" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/rabiulh46448368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rabiulh46448368" height="30" width="40" /></a>
+<a href="https://twitter.com/rabiulh46448368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rabiulh46448368" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rabiulhossen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rabiulhossen/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18399587/rabiulhossen?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18399587/rabiulhossen?tab=profile" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/muktadirr.evansimonn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muktadirr.evansimonn/" height="30" width="40" /></a>
