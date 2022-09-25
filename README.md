@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Web Development**     
 
-- 📫 How to reach me **rabiulhossen001@gmail.com**  <br/>       ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
+- 📫 How to reach me **rabiulhossen001@gmail.com**  <br/>     
+
+- 👨‍   ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
 - ⚡ Fun fact **Travelling more** 
 
