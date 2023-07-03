@@ -4,15 +4,15 @@
 I am eagerly waiting to contribute to your project and increase my experience. Feel free to contact me if you have any questions or projects. </p>
 
 
-
 - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) </p>
    
 - 💬 Ask me about **Web Development**  
 
- - 📫 How to reach me ***rabiulhossen001@gmail.com***  
+- 📫 How to reach me ***rabiulhossen001@gmail.com***  
 
- - ⚡ Fun fact **Travelling more**
-
+- ⚡ Fun fact **Travelling more**
+- [![](https://visitcount.itsvg.in/api?id=rabiulhossen&icon=1&color=11)](https://visitcount.itsvg.in)
+---
 <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
 
 
@@ -26,14 +26,13 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 
  ![](https://github-readme-stats.vercel.app/api?username=rabiulhossen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen&theme=dark&hide_border=false) 
-<a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
 
 
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rabiulhossen&icon=1&color=11)](https://visitcount.itsvg.in)
+
 
                   
 
