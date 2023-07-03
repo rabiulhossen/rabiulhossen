@@ -5,8 +5,8 @@
 
 
 
-<div style="display: flex; justify-content: center;">
- <div style="margin-right: 10px;">
+<div align="center">
+ <div style="display: inline-block; margin-right: 10px;">
 
  - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
    
@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **rabiulhossen001@gmail.com**  <br/>     
 
-- 👨‍ ![Profile views] (https://gpvc.arturio.dev/rabiulhossen) 
+- 👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
 - ⚡ Fun fact **Travelling more**
   </div>
  
-  <div style="margin-left: 10px;">
-    <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" alt="Rabiul Hossen's Dev Card"/></a> 
+  <div style="display: inline-block; margin-left: 10px;">
+    <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
   </div>
 </div>
 
