@@ -5,8 +5,7 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 
 
 
-<div style="display:flex; flex-direction:row; justify-content:space-between ;">
- <div style="margin-right: 10px;">
+<p>&nbsp;
 
  - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
    
@@ -17,12 +16,11 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 - 👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
 - ⚡ Fun fact **Travelling more**
-  </div>
+
  
-  <div>
+  
     <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
-</div>
-</div>
+</p>
 
                                  
 
@@ -47,69 +45,5 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiulhossen&show_icons=true&locale=en" alt="rabiulhossen" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen&" alt="rabiulhossen" /></p>
 
 
-
-
-
-
-
-*||*
-<h1 align="center">Hi, I'm Rabiul Hossen 👋</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
-
-<p align="center">
-  I am a self-taught, enthusiastic frontend developer with diverse skills, qualities, and attributes. I have a strong focus on ReactJS, NodeJS, and MongoDB. I am eagerly waiting to contribute to your project and gain more experience. Feel free to contact me if you have any questions or projects in mind.
-</p>
-
-<div align="center">
-  <a href="https://moonlit-unicorn-5e72b0.netlify.app/">👨‍💻 Portfolio</a> |
-  <a href="mailto:rabiulhossen001@gmail.com">📫 Contact</a> |
-  <a href="https://gpvc.arturio.dev/rabiulhossen">👨‍ Profile Views</a> |
-  <a href="https://app.daily.dev/RabiulHossen">⚡ Dev Card</a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://dev.to/rabiulhossen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/rabiulh46448368"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/rabiulhossen/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/18399587/rabiulhossen?tab=profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/muktadirr.evansimonn/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/rabiulhossen_01/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</div>
-
-<br/>
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40"/>
-  <img src="https://www.vector
-
-logo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="40" width="40"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiulhossen&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen" alt="GitHub Streak" />
-</div>
-
-
- 
 
 
