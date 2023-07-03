@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rabiul Hossen</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">A passionate frontend developer </h2>
 <p align="left"> I am a self-taught, enthusiastic front-end developer with diverse skills, qualities, and attributes. Furthermore, I am developing advanced skills in ReactJS, NodeJS, and MongoDB. 
  I am eagerly waiting to contribute to your project and increase my experience. Feel free to contact me if you have any questions or projects. </p>
 
 - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
-<div align="left">
-- 💬: Ask me about **Web Development**     
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+- 💬 Ask me about **Web Development**     
 
 - 📫 How to reach me **rabiulhossen001@gmail.com**  <br/>     
 
 - 👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
 - ⚡ Fun fact **Travelling more**
+  </div>
+  <div style="margin-left: 10px;">
+    <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" alt="Rabiul Hossen's Dev Card"/></a> 
+  </div>
 </div>
- <div align="right"><a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" alt="Rabiul Hossen's Dev Card"/></a> </div>
-</div>
+
+ 
+
+
 <h2 align="left">Connect with me : </h2>            
 
 <p align="left">
