@@ -30,7 +30,7 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 # 📊 GitHub Stats:
 
 <p>&nbsp; ![](https://github-readme-stats.vercel.app/api?username=rabiulhossen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen&theme=dark&hide_border=false)<br/></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen&theme=dark&hide_border=false) </p>
 
 
 ### ✍️ Daily Dev Quote
