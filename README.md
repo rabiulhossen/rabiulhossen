@@ -5,7 +5,7 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 
 
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
+<div style="display:flex; flex-direction:row; justify-content:space-between ;">
  <div style="margin-right: 10px;">
 
  - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
@@ -27,7 +27,7 @@ I am eagerly waiting to contribute to your project and increase my experience. F
  
 
 
-<h2 align="left">Connect with me : </h2>            
+<h2 align="center">Connect with me : </h2>            
 
 <p align="left">
 <a href="https://dev.to/rabiulhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rabiulhossen" height="30" width="40" /></a>
