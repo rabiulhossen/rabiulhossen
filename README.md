@@ -4,22 +4,17 @@
 I am eagerly waiting to contribute to your project and increase my experience. Feel free to contact me if you have any questions or projects. </p>
 
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
- <div>
-<p align="left">👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) </p>
+
+- 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) </p>
    
-<p align="left"> 💬 Ask me about **Web Development**     </p>
+- 💬 Ask me about **Web Development**  
 
-<p align="left"> 📫 How to reach me ***rabiulhossen001@gmail.com***   </p>  
+ - 📫 How to reach me ***rabiulhossen001@gmail.com***  
 
-<p align="left">👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) </p>
+ - ⚡ Fun fact **Travelling more**
 
-<p align="left"> ⚡ Fun fact **Travelling more**</p> 
-</div>
-<div>
-<a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
-</div>
-</div>
+<a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
+
 
 
 ## 🌐 Connect With Me:
@@ -31,6 +26,7 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 
  ![](https://github-readme-stats.vercel.app/api?username=rabiulhossen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rabiulhossen&theme=dark&hide_border=false) 
+<a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
 
 
 ### ✍️ Daily Dev Quote
