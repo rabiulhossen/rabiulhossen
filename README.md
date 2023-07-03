@@ -23,19 +23,29 @@ I am eagerly waiting to contribute to your project and increase my experience. F
     <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
 </div>
 </div>
-|                                    |                                      |
-|------------------------------------|--------------------------------------|
-| 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) |  |
-| 💬 Ask me about **Web Development** |                                      |
-| 📫 How to reach me ***rabiulhossen001@gmail.com***<br/> |                                      |
-| 👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) |                                      |
-| ⚡ Fun fact **Travelling more**     |                                      |
-|                                    |                                      |
-| [![Rabiul Hossen's Dev Card](https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf)](https://app.daily.dev/RabiulHossen) |                                      |
 
+||
 
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="margin-right: 10px; width: 50%;">
+
+   - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
+   
+  - 💬 Ask me about **Web Development**     
+
+  - 📫 How to reach me ***rabiulhossen001@gmail.com***  <br/>     
+
+  - 👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
+
+  - ⚡ Fun fact **Travelling more**
+  </div>
  
+  <div style="width: 50%;">
+    <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
+  </div>
+</div>
 
+                                 
 
 <h2 align="center">Connect with me : </h2>            
 
