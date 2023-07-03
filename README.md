@@ -4,23 +4,22 @@
 I am eagerly waiting to contribute to your project and increase my experience. Feel free to contact me if you have any questions or projects. </p>
 
 
-
-<p>&nbsp;
-
- - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
+<div style="display: flex; flex-direction: row; justify-content: center;">
+ <div>
+<h2 align="left">👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) </h2>
    
-- 💬 Ask me about **Web Development**     
+<h2 align="left"> 💬 Ask me about **Web Development**     </h2>
 
-- 📫 How to reach me ***rabiulhossen001@gmail.com***  <br/>     
+<h2 align="left"> 📫 How to reach me ***rabiulhossen001@gmail.com***   </h2>  
 
-- 👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
+<h2 align="left">👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) </h2>
 
-- ⚡ Fun fact **Travelling more**
-
- 
-  
-    <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
-</p>
+<h2 align="left"> ⚡ Fun fact **Travelling more**</h2> 
+</div>
+<div>
+<a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
+</div>
+</div>
 
                                  
 
