@@ -5,6 +5,7 @@
 
 - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
 
+<div style="display: flex; flex-direction: row; justify-content: center;">
 <div align="left">
 - 💬: Ask me about **Web Development**     
 
@@ -15,7 +16,7 @@
 - ⚡ Fun fact **Travelling more**
 </div>
  <div align="right"><a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="400" alt="Rabiul Hossen's Dev Card"/></a> </div>
-
+</div>
 <h2 align="left">Connect with me : </h2>            
 
 <p align="left">
