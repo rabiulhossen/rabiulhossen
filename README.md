@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabiul Hossen</h1>
 <h2 align="center">A passionate frontend developer</h2>
-<p align="left"> Currently, I am studying B.Sc. in Computer Science & Engineering. I am a self-taught enthusiasm Front End Developer who has a built-up a diverse range of skills, qualities and attributes. Furthermore, I am developing advanced skill in  ReactJS, NodeJS and MongoDB. 
- I am eagerly waiting to contribute with your project and increase my experience. Feel free to contact with me for any query and project. </p>
+<p align="left"> I am a self-taught enthusiastic Frontend developer with diverse skills, qualities, and attributes. Furthermore, I am developing advanced skills in  ReactJS, NodeJS, and MongoDB. 
+ I am eagerly waiting to contribute to your project and increase my experience. Feel free to contact me if you have any questions or projects. </p>
 
 - 👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/)
 
@@ -11,7 +11,9 @@
 
 - 👨‍   ![Profile views](https://gpvc.arturio.dev/rabiulhossen) 
 
-- ⚡ Fun fact **Travelling more** 
+- ⚡ Fun fact **Travelling more**
+
+  <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=zr7" width="400" alt="Rabiul Hossen's Dev Card"/></a>
 
 <h2 align="left">Connect with me : </h2>            
 
