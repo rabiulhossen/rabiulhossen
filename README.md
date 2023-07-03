@@ -19,9 +19,9 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 - ⚡ Fun fact **Travelling more**
   </div>
  
-  <div style="margin-left: 10px;">
+  
     <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
-  </div>
+
 </div>
 
  
