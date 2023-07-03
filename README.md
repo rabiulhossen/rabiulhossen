@@ -6,15 +6,15 @@ I am eagerly waiting to contribute to your project and increase my experience. F
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
  <div>
-<h2 align="left">👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) </h2>
+<p align="left">👨‍💻 [https://moonlit-unicorn-5e72b0.netlify.app/](https://moonlit-unicorn-5e72b0.netlify.app/) </p>
    
-<h2 align="left"> 💬 Ask me about **Web Development**     </h2>
+<p align="left"> 💬 Ask me about **Web Development**     </p>
 
-<h2 align="left"> 📫 How to reach me ***rabiulhossen001@gmail.com***   </h2>  
+<p align="left"> 📫 How to reach me ***rabiulhossen001@gmail.com***   </p>  
 
-<h2 align="left">👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) </h2>
+<p align="left">👨‍ ![Profile views](https://gpvc.arturio.dev/rabiulhossen) </p>
 
-<h2 align="left"> ⚡ Fun fact **Travelling more**</h2> 
+<p align="left"> ⚡ Fun fact **Travelling more**</p> 
 </div>
 <div>
 <a href="https://app.daily.dev/RabiulHossen"><img src="https://api.daily.dev/devcards/c414776afea94fa9a0f38ba97fa5b7c7.png?r=rzf" width="350" align="center" alt="Rabiul Hossen's Dev Card"/></a> 
