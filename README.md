@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabiul Hossen</h1>
-<h2 align="center"> 💫 A passionate frontend developer </h2>
-<p align="left"> I am a self-taught, enthusiastic front-end developer with diverse skills, qualities, and attributes. Furthermore, I am developing advanced skills in ReactJS, NodeJS, and MongoDB. 
+<h2 align="center"> 💫 A passionate JavaScript developer </h2>
+<p align="left"> I am a self-taught, enthusiastic front-end developer with diverse skills, qualities, and attributes. I am developing advanced skills in ReactJS, NodeJS, Expressjs, and MongoDB. 
 I am eagerly waiting to contribute to your project and increase my experience. Feel free to contact me if you have any questions or projects. </p>
 
 
